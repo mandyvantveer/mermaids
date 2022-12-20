@@ -1,0 +1,29 @@
+body {
+    background-color: pink;
+    text-align: center;
+}
+p{
+    color: rgb(128, 128, 206);
+    margin-bottom: 20px;
+}
+h1{
+    color: #896aa7;
+    
+    font-size: 150px;
+    margin-bottom: 30px;
+    margin: 0 auto
+    text-
+
+}
+img {
+    width: 300px;
+    display: block;
+    margin: 0 auto;
+}
+div{
+    color: #6d1550;
+    height: 400px;
+    width: 800px
+    padding: 25px;
+    font-size: 20px;
+}
